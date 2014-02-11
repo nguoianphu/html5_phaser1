@@ -97,7 +97,14 @@
 
                 //  Our controls.
                 cursors = game.input.keyboard.createCursorKeys();
+                
+                // Click to Full screen
+                game.input.onDown.add(goFull, this);
 
+            }
+
+            function goFull() {
+                game.stage.scale.startFullScreen();
             }
 
             function update() {
