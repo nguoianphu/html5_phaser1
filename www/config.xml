@@ -1,12 +1,20 @@
-<?xml version='1.0' encoding='utf-8'?>
-<widget id="com.example.hello" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Duck981</name>
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.phonegap.example"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Nguoi An Phu Apps</name>
+
     <description>
-        A sample Phaser application.
+        Apps from Nguoi An Phu PLay.
     </description>
-    <author email="nguoianphu@gmail.com" href="http://nguoianphu.com">
-        Duck981 Phaser application
+
+    <author href="http://play.nguoianphu.com" email="nguoianphu@gmail.com">
+        Nguoi An Phu 
     </author>
-    <content src="index.html" />
-    <access origin="*" />
+
 </widget>
