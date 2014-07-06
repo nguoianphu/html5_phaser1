@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<widget id="com.example.hello" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.nguoianphu.play" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Duck981</name>
     <description>
-        Apps from Nguoi An Phu PLay.
+        Apps from Play.NguoiAnPhu.com
     </description>
 
     <author href="http://play.nguoianphu.com" email="nguoianphu@gmail.com">
-        Nguoi An Phu 
+        Nguoi An Phu
     </author>
 	<gap:plugin name="org.apache.cordova.media" />
 
