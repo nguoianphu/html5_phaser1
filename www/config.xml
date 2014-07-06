@@ -8,5 +8,6 @@
     <author href="http://play.nguoianphu.com" email="nguoianphu@gmail.com">
         Nguoi An Phu 
     </author>
+	<gap:plugin name="org.apache.cordova.media" />
 
 </widget>
