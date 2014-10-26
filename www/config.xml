@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget id="com.nguoianphu.play" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Duck981</name>
+    <name>NguoiAnPhu</name>
     <description>
         Apps from Play.NguoiAnPhu.com
     </description>
 
     <author href="http://play.nguoianphu.com" email="nguoianphu@gmail.com">
-        Nguoi An Phu
+        NguoiAnPhu.com
     </author>
 	<gap:plugin name="org.apache.cordova.media" />
 
