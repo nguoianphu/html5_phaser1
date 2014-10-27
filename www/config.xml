@@ -9,5 +9,6 @@
         NguoiAnPhu.com
     </author>
 	<gap:plugin name="org.apache.cordova.media" />
+	<icon src="icon.png" />
 
 </widget>
