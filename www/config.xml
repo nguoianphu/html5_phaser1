@@ -10,5 +10,6 @@
     </author>
 	<gap:plugin name="org.apache.cordova.media" />
 	<icon src="icon.png" />
+	<preference name="splash-screen-duration" value="1"/>
 
 </widget>
