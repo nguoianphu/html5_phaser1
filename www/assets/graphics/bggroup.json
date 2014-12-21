@@ -15,22 +15,14 @@
 	"trimmed": true,
 	"spriteSourceSize": {"x":5,"y":6,"w":500,"h":306},
 	"sourceSize": {"w":512,"h":322}
-},
-{
-	"filename": "levelcomplete.png",
-	"frame": {"x":2,"y":1144,"w":661,"h":242},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":661,"h":242},
-	"sourceSize": {"w":661,"h":242}
 }],
 "meta": {
 	"app": "http://www.texturepacker.com",
 	"version": "1.0",
 	"image": "bggroup.png",
 	"format": "RGBA8888",
-	"size": {"w":665,"h":1388},
+	"size": {"w":644,"h":1144},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:e922a4bf29f959c27b177eb14ff71335$"
+	"smartupdate": "$TexturePacker:SmartUpdate:dba273df59fffc994b4c0e1ba676e148$"
 }
 }
